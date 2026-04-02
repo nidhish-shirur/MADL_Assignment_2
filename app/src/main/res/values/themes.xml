@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MADL02_49" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/mango_main</item>
+        <item name="colorPrimaryVariant">@color/mango_dark</item>
+        <item name="colorOnPrimary">#FFFFFF</item> <item name="colorSecondary">@color/mango_main</item>
+        <item name="colorSecondaryVariant">@color/mango_dark</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.MADL02_49" parent="Base.Theme.MADL02_49" />
+</resources>
